@@ -1,0 +1,9 @@
+C:/Users/Rren/Documents/client/build/Desktop_Qt_6_8_1_MinGW_64_bit-MinSizeRel/CMakeFiles/client.dir
+C:/Users/Rren/Documents/client/build/Desktop_Qt_6_8_1_MinGW_64_bit-MinSizeRel/CMakeFiles/edit_cache.dir
+C:/Users/Rren/Documents/client/build/Desktop_Qt_6_8_1_MinGW_64_bit-MinSizeRel/CMakeFiles/rebuild_cache.dir
+C:/Users/Rren/Documents/client/build/Desktop_Qt_6_8_1_MinGW_64_bit-MinSizeRel/CMakeFiles/list_install_components.dir
+C:/Users/Rren/Documents/client/build/Desktop_Qt_6_8_1_MinGW_64_bit-MinSizeRel/CMakeFiles/install.dir
+C:/Users/Rren/Documents/client/build/Desktop_Qt_6_8_1_MinGW_64_bit-MinSizeRel/CMakeFiles/install/local.dir
+C:/Users/Rren/Documents/client/build/Desktop_Qt_6_8_1_MinGW_64_bit-MinSizeRel/CMakeFiles/install/strip.dir
+C:/Users/Rren/Documents/client/build/Desktop_Qt_6_8_1_MinGW_64_bit-MinSizeRel/CMakeFiles/client_autogen_timestamp_deps.dir
+C:/Users/Rren/Documents/client/build/Desktop_Qt_6_8_1_MinGW_64_bit-MinSizeRel/CMakeFiles/client_autogen.dir
